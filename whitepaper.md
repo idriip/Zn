@@ -1,19 +1,17 @@
-[Please copy this template, including the Submission Guidelines & Instructions section, before filling it out] 
 
- 
 
-<Zn Dao> 
+Zn Dao
  
  
 
 Company Address (as stated on CoI if applicable) or Personal Address: 
 Email: idriisperrin@gmail.com  
 
-Website:  
+ 
 
  
 
-The core goal of this program is to increase the adoption of ICP, which means either developing new dApps or getting more users to existing ones. The Impact of your proposed project should directly or indirectly lead to that (this need to be established in this proposal) 
+
 
  
 
@@ -78,9 +76,6 @@ Total
 $150,000.00 
 
  
-
-Please refer to the KPI sheet to find the right kind of impact based on your project; it's very important to choose the same properly else the proposal will get rejected. 
-
  
 
  
@@ -95,7 +90,7 @@ Please refer to the KPI sheet to find the right kind of impact based on your pro
 
  
 
-[The following section needs to be filled separately for each project listed above] 
+ 
 
  
 
@@ -159,9 +154,7 @@ Leveraging a High-Tech Startup Environment: The DC, Maryland, and Virginia area 
 
  
 
- 
-
-Share the implementation plan 
+ Implementation plan 
 
 What is the implementation plan for the project? If the project entails building a course, please share topics that will be included in the content of the course and the target audience for the course. If the project entails organizing an event or creating content, please provide relevant details like the flow of the event/content, topics covered, and CTA. 
 
@@ -915,22 +908,9 @@ The Team members involved in this project are:
 
  
 
-Submission Guidelines and Requirements 
+
 
  
 
-Applying for a grant means you agree to these terms and conditions:  
-
- 
-
- 
-
- 
-
-Wherever relevant, include links to websites, open-source code, public documentation, or upload visual files to help substantiate the proposal. 
-
-You will share all the data of program participants (like name, email, etc.) as and when required and applicable after obtaining prior consent from the participants. 
-
-You will share proof of program/project impact per the deliverable listed above and as agreed before the commencement of the partnership or engagement, post-program completion. 
 
  
